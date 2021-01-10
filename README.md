@@ -18,7 +18,7 @@ The scheduler checks every minute if:
 
 In order to enable push notofications, you need to install the following iobroker plugins:
 1. pushsafer (follow the instructions with the pluging to enable notifications to your devices)
-2. logparser and configure it according to the instructions to search for werror messages in the logfile
+2. logparser and configure it according to the instructions to search for error messages in the logfile
 
 Then you may import the views and the corresponding js code. 
 Ensure that you adopt the VIN placeholder with your VIN in the code.
