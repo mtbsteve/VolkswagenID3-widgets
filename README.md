@@ -15,7 +15,7 @@ Note: you must install the vw-connect plugin with the little github icon in the 
 The scheduler checks every minute if:
 - the timer for charging was set
 - if an error in the server communication occured and sends a push notification to a pushsafer defined device
-- if chaging was started from the ConnectID app
+- if charging was started from the ConnectID app
 
 In order to enable push notofications, you need to install the following iobroker plugins:
 1. pushsafer (follow the instructions with the pluging to enable notifications to your devices)
