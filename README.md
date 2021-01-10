@@ -8,6 +8,7 @@ To install:
 3. Enter your volkswagen.id credentials (username, password and s-pin)
 4. Install the vis-inventwo widget set in the adapter menu of iobroker
 5. Deploy the javascript code for the charging menu and the scheduler in the scripts section
+6. Create the user variables in 0_userdata.0 as listed in the javascript code 
 
 Note: you must install the vw-connect plugin with the little github icon in the adapter menu of iobroker in order to get the latest version since the code is under development.
 
