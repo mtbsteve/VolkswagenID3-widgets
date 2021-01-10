@@ -9,6 +9,8 @@ To install:
 4. Install the vis-inventwo widget set in the adapter menu of iobroker
 5. Deploy the javascript code for the charging menu and the scheduler in the scripts section
 
+Note: you must install the vw-connect plugin with the little github icon in the adapter menu of iobroker in order to get the latest version since the code is under development.
+
 The scheduler checks every minute if:
 - the timer for charging was set
 - if an error in the server communication occured and sends a push notification to a pushsafer defined device
