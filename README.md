@@ -17,7 +17,7 @@ The scheduler checks every minute if:
 - if an error in the server communication occured and sends a push notification to a pushsafer defined device
 - if charging was started from the ConnectID app
 
-In order to enable push notofications, you need to install the following iobroker plugins:
+In order to enable push notifications, you need to install the following iobroker plugins:
 1. pushsafer (follow the instructions with the pluging to enable notifications to your devices)
 2. logparser and configure it according to the instructions to search for error messages in the logfile
 
