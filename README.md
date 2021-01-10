@@ -25,4 +25,7 @@ Ensure that you adopt the VIN placeholder with your VIN in the code.
 
 The images directory includes screenshots of the different menus and the pushsafer notification in an Apple Watch
 
-## Please note: This is all experimental, not endorsed by Volkswagen, and to be used at your own risk.
+Known issues:
+- With the id3 software version 0564, the climatisation parameters can be displayed but not set (appears to work with 0784 according to other users)
+
+### Please note: This is all experimental, not endorsed by Volkswagen, and to be used at your own risk.
